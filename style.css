@@ -15,3 +15,30 @@ html,body{
     background-color: #C4BCB3;
     position: relative;
 }
+
+#nav{
+    height: 110px;
+   
+    width: 100%;
+    display: flex;
+    padding: 0 30px ;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+#nav h1{
+    height: 50px;
+    width: 30%;
+
+}
+
+#nav h5{
+width: 30%;
+font-size: 30px;
+font-weight: 600;
+}
+#nav i{
+    width: 30%;
+    text-align: right;
+} 
